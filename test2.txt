@@ -1,1 +1,1 @@
-hello this is secomd text file
+i changed this component
